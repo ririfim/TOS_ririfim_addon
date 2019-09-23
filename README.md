@@ -1,2 +1,3 @@
 ＃TOS_ririfim_addon
-修正されてないaddonとか修正して使えるようにしていきたい感じです。
+救世主の木のアドオンのインストール方法
+インストールドライブ：\ Nexon \ TreeofSaviorJP \ data \の直下にipfを格納
