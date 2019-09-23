@@ -1,2 +1,2 @@
-# TOS_ririfim_addon
-修正が終わってるaddonの修正とか
+＃TOS_ririfim_addon
+修正されてないaddonとか修正して使えるようにしていきたい感じです。
